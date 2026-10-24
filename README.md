@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # Dentolio - Logiciel de Gestion de Cabinet Dentaire (MERN Stack)
 
 Logiciel complet de gestion de cabinet dentaire inspiré de la démonstration Dentolio.
